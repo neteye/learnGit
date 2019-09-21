@@ -1,2 +1,3 @@
-git is  a version controller
+git is distributed  a version controller
 git is free software
+
